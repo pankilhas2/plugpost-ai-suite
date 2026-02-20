@@ -1,0 +1,17 @@
+# Bloquear detecção Next.js
+next.config.js
+next.config.mjs
+app/
+pages/
+middleware.ts
+middleware.js
+
+# Forçar Node.js API
+*.tsx
+*.ts
+*.jsx
+
+# Manter apenas arquivos Node.js
+api/
+vercel.json
+package.json

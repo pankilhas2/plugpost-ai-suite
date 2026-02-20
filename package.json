@@ -1,0 +1,27 @@
+{
+  "name": "newpost-ia-auto-content",
+  "version": "1.0.0",
+  "description": "NEWPOST-IA Auto Content Generator - Next.js App",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "next": "15.3.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "axios": "^1.13.5",
+    "rss-parser": "^3.13.0",
+    "openai": "^4.20.0",
+    "dotenv": "^16.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "vercel": "^32.0.0"
+  }
+}
