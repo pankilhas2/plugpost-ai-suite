@@ -1,0 +1,5 @@
+# Cole este conteúdo no arquivo .env.local na raiz do projeto
+NEWSAPI_KEY=f3a04b2b1ba84df08775a962e06f77b0
+NEXT_PUBLIC_SUPABASE_URL=https://ykswhzqdjoshjoaruhqs.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=sb_publishable_IZ0LgQkdpo7bVMySqz4C1w_zrxjLGcv
+SUPABASE_SERVICE_ROLE_KEY=sb_secret_kiKzSFZcF_j4aLkXU1aAAw_ILHfST7Q
